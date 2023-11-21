@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\SOLID\OCP\bin\Debug\net7.0\OCP.exe
+C:\Users\user\RiderProjects\SOLID\OCP\bin\Debug\net7.0\OCP.deps.json
+C:\Users\user\RiderProjects\SOLID\OCP\bin\Debug\net7.0\OCP.runtimeconfig.json
+C:\Users\user\RiderProjects\SOLID\OCP\bin\Debug\net7.0\OCP.dll
+C:\Users\user\RiderProjects\SOLID\OCP\bin\Debug\net7.0\OCP.pdb
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\OCP.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\OCP.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\OCP.AssemblyInfo.cs
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\OCP.dll
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\refint\OCP.dll
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\OCP.pdb
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\OCP.genruntimeconfig.cache
+C:\Users\user\RiderProjects\SOLID\OCP\obj\Debug\net7.0\ref\OCP.dll

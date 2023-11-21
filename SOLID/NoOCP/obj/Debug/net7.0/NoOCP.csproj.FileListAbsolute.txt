@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\SOLID\NoOCP\bin\Debug\net7.0\NoOCP.exe
+C:\Users\user\RiderProjects\SOLID\NoOCP\bin\Debug\net7.0\NoOCP.deps.json
+C:\Users\user\RiderProjects\SOLID\NoOCP\bin\Debug\net7.0\NoOCP.runtimeconfig.json
+C:\Users\user\RiderProjects\SOLID\NoOCP\bin\Debug\net7.0\NoOCP.dll
+C:\Users\user\RiderProjects\SOLID\NoOCP\bin\Debug\net7.0\NoOCP.pdb
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\NoOCP.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\NoOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\NoOCP.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\NoOCP.AssemblyInfo.cs
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\NoOCP.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\NoOCP.dll
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\refint\NoOCP.dll
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\NoOCP.pdb
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\NoOCP.genruntimeconfig.cache
+C:\Users\user\RiderProjects\SOLID\NoOCP\obj\Debug\net7.0\ref\NoOCP.dll
